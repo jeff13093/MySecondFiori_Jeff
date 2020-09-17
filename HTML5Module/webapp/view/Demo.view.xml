@@ -5,7 +5,7 @@
 				<Page id="page" title="{i18n>title}">
 					<content>
 					    <Button xmlns="sap.m" text="Button" id="button0"/>
-					    <Label text="Label3" width="100%" id="label0"/>
+					    <Label text="Label4" width="100%" id="label0"/>
 					</content>
 				</Page>
 			</pages>
